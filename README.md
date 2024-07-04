@@ -1,9 +1,9 @@
-# Zenless
+# Proxy Network
 
-Welcome to Zenless, where the power of Solana blockchain meets the ingenuity of AI-generated content. This repository is your gateway to a revolutionary platform that redefines the way we interact with and create content in the digital world.
+Welcome to Proxy Network, where the power of Solana blockchain meets the ingenuity of AI-generated content. This repository is your gateway to a revolutionary platform that redefines the way we interact with and create content in the digital world.
 
 ## Overview
-Zenless is a cutting-edge project that leverages the speed and scalability of the Solana blockchain to enable decentralized AI content generation. Our platform seamlessly blends artificial intelligence with blockchain technology, offering a novel approach to content creation, curation, and distribution.
+Proxy Network is a cutting-edge project that leverages the speed and scalability of the Solana blockchain to enable decentralized AI content generation. Our platform seamlessly blends artificial intelligence with blockchain technology, offering a novel approach to content creation, curation, and distribution.
 
 ## Features
 
@@ -17,6 +17,6 @@ Zenless is a cutting-edge project that leverages the speed and scalability of th
 
 
 ## License
-This project is licensed under the MIT License. Feel free to explore, use, and contribute to the development of Zenless!
+This project is licensed under the MIT License. Feel free to explore, use, and contribute to the development of Proxy Network!
 
-Join us in revolutionizing content creation on the Solana blockchain. Let's make some noise together with Zenless! 🚀
+Join us in revolutionizing content creation on the Solana blockchain. Let's make some noise together with Proxy Network! 🚀
